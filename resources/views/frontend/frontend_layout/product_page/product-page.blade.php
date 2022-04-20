@@ -330,7 +330,7 @@
                                         <div class="comment">
                                             <div class="comment-body mt-2 mt-sm-0">
 
-
+                                                <!-- demo commit -->
                                                 @foreach($reviews as $review)
                                                     @if($review->product_id == $product->id)
                                                         <div class="comment-user">
